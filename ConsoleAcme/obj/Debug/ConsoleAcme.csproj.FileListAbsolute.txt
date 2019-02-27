@@ -1,0 +1,6 @@
+C:\Users\Wendy\source\repos\ConsoleAcme\ConsoleAcme\bin\Debug\ConsoleAcme.exe.config
+C:\Users\Wendy\source\repos\ConsoleAcme\ConsoleAcme\bin\Debug\ConsoleAcme.exe
+C:\Users\Wendy\source\repos\ConsoleAcme\ConsoleAcme\bin\Debug\ConsoleAcme.pdb
+C:\Users\Wendy\source\repos\ConsoleAcme\ConsoleAcme\obj\Debug\ConsoleAcme.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\ConsoleAcme\ConsoleAcme\obj\Debug\ConsoleAcme.exe
+C:\Users\Wendy\source\repos\ConsoleAcme\ConsoleAcme\obj\Debug\ConsoleAcme.pdb
